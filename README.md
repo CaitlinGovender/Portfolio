@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Caitlin</h1>
 <h3 align="center">An aspiring data scientist.</h3>
 
-- 🌱 I am a Data Science graduate trainee for Standard Bank. I am an new coder and programmer, and I’m currently learning **Python for Data Science, Data Analytics & Exploration and Machine Learning & AI**. I graduated from the University of Cape Town in 2019 with a Bachelor's Degree in Chemical Engineering. I then worked for 2 years as a Project Engineer for a financial services company. 
+- 🌱 I'm a new coder and programmer, who is currently learning **Python for Data Science, Data Analytics & Exploration as well as Machine Learning & AI**. I graduated from the University of Cape Town in 2019 with a Bachelor's Degree in Chemical Engineering. I then worked for 2 years as a Project Engineer for a financial services company. During this time, I discovered a passion for data science and made the switch. I am now a Data Science Graduate Trainee at Standard Bank.
 
 - 👨‍💻 All of my projects are available at [https://github.com/CaitlinGovender](https://github.com/CaitlinGovender)
 
